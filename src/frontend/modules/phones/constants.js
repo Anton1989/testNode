@@ -1,0 +1,9 @@
+export const GET_PHONES = 'GET_PHONES';
+export const CREATE_PHONE = 'CREATE_PHONE';
+export const CHECK_PHONE = 'CHECK_PHONE';
+export const DELETE_PHONE = 'DELETE_PHONE';
+export const DISMISS_ERROR = 'DISMISS_ERROR';
+export const ERROR = 'ERROR';
+export const SUCCESS = 'SUCCESS';
+export const ADD_SUCCESS = 'ADD_SUCCESS';
+export const DELETE_SUCCESS = 'DELETE_SUCCESS';
